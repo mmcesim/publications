@@ -1,5 +1,8 @@
 Explore publications of mmCEsim!
 
+## Posters
+- [2022 National Postdoc Seminar in Nanjing](mmCEsim_Nanjing2022_Poster.pdf): Brief Introduction to mmCEsim. (*Honorable Mention Award*, the only undergraduate student in the postdoc seminar.)
+
 ## Examples
 - [Example Configuration](mmCEsim_Example_Config.pdf): Oracle LS and OMP Channel Estimation Configuration Example
 - [Example Report](mmCEsim_Example_Report.pdf): Generated PDF Report for Oracle LS and OMP Channel Estimation
