@@ -11,7 +11,7 @@ minima:
     youtube_channel: UCnYkaHcT9qM5QnbZbVLtEEQ
     youtube_channel_name: mmCEsim
 
-theme: minima@master
+remote_theme: jekyll/minima@master
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
