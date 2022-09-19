@@ -2,7 +2,11 @@ title: mmCEsim Publications
 author:
   name: Wuqiong Zhao (Teddy van Jerry)
   email: contact@mmcesim.org
-description: Explore publications of mmCEsim!
+description: >
+  Explore publications of mmCEsim!
+  The application mmCEsim is a powerful tool
+  to simulate millimeter wave (mmWave)
+  channel estimation (CE) for both experts and learners.
 
 minima:
   social_links:
