@@ -1,0 +1,17 @@
+title: mmCEsim Publications
+author:
+  name: Wuqiong Zhao (Teddy van Jerry)
+  email: contact@mmcesim.org
+description: Explore publications of mmCEsim!
+
+minima:
+  social_links:
+    twitter: mmcesim
+    github: mmcesim
+    youtube_channel: UCnYkaHcT9qM5QnbZbVLtEEQ
+    youtube_channel_name: mmCEsim
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
