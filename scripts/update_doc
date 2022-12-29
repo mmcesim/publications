@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Download mmCEsim-doc.pdf
-mv mmCEsim-doc.pdf
+rm mmCEsim-doc.pdf
 curl -kLSs https://github.com/mmcesim/mmcesim-doc/raw/master/mmCEsim-doc.pdf -o mmCEsim-doc.pdf
 
 # Provide Fast Web View
