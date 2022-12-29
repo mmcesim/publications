@@ -1,0 +1,3 @@
+#!/bin/sh
+mv mmCEsim-doc.pdf
+curl -kLSs https://github.com/mmcesim/mmcesim-doc/raw/master/mmCEsim-doc.pdf -o mmCEsim-doc.pdf

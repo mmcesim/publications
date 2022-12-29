@@ -1,0 +1,31 @@
+name: Update mmCEsim-doc
+
+on:
+  repository_dispatch:
+    types: [mmcesim-doc-push]
+
+permissions:
+  contents: write
+
+jobs:
+  doxygen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Out
+        uses: actions/checkout@v3
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - name: Run Update Script
+        run: chmod +x ./scripts/update_doc && ./scripts/update_doc
+      - name: Commit Files
+        run: |
+          git config --local user.email "bot@mmcesim.org"
+          git config --local user.name "mmcesim-bot"
+          git commit -am"Update mmCEsim-doc.pdf" || echo "No change to the PDF."
+      - name: Push Changes
+        uses: ad-m/github-push-action@master

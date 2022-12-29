@@ -1,5 +1,8 @@
 Explore publications of mmCEsim!
 
+## Documentation & Tutorials
+- [mmCEsim Doc & Tutorials](mmCEsim-doc.pdf): PDF Manual Corresponding to [mmcesim.org](https://mmcesim.org) (*still working on*)
+
 ## Posters
 - [2022 National Postdoc Seminar in Nanjing](mmCEsim_Nanjing2022_Poster.pdf): Brief Introduction to mmCEsim. (*Honorable Mention Award*, the only undergraduate student in the postdoc seminar.)
 

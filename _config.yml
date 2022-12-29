@@ -19,3 +19,6 @@ remote_theme: jekyll/minima@master
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - scripts
