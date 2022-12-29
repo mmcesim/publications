@@ -10,10 +10,9 @@ description: >
 
 minima:
   social_links:
-    twitter: mmcesim
-    github: mmcesim
-    youtube_channel: UCnYkaHcT9qM5QnbZbVLtEEQ
-    youtube_channel_name: mmCEsim
+    - { platform: github, user_url: "https://github.com/mmcesim" }
+    - { platform: twitter, user_url: "https://twitter.com/mmcesim" }
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCnYkaHcT9qM5QnbZbVLtEEQ", title: "mmCEsim" }
 
 remote_theme: jekyll/minima@master
 plugins:

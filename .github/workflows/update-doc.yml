@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 jobs:
-  doxygen:
+  update-doc:
     runs-on: ubuntu-latest
     steps:
       - name: Check Out
