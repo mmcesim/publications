@@ -4,6 +4,9 @@ Explore publications of mmCEsim!
 - [mmCEsim Doc & Tutorials](mmCEsim-doc.pdf): PDF Manual Corresponding to [mmcesim.org](https://mmcesim.org)
 - Cheatsheet (*still designing*)
 
+## Papers
+- [...] Algorithm for Intelligent Reflecting Surface-Aided mmWave Channel Estimation, **IEEE Transactions on Vehicular Technology** (*to be published*)
+
 ## Posters
 - [2022 National Postdoc Seminar in Nanjing](mmCEsim_Nanjing2022_Poster.pdf): Brief Introduction to mmCEsim. (*Honorable Mention Award*, the only undergraduate student in the postdoc seminar.)
 
