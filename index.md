@@ -5,7 +5,7 @@ Explore publications of mmCEsim!
 - Cheatsheet (*still designing*)
 
 ## Papers
-- [OMPL-SBL Algorithm for Intelligent Reflecting Surface-Aided mmWave Channel Estimation](https://ieeexplore.ieee.org/document/10164645), **IEEE Transactions on Vehicular Technology** (*early access*) Doi: [10.1109/TVT.2023.3287400](https://doi.org/10.1109/TVT.2023.3287400) [[PDF](https://wqzhao.org/assets/zhao2023ompl.pdf)]
+- [OMPL-SBL Algorithm for Intelligent Reflecting Surface-Aided mmWave Channel Estimation](https://ieeexplore.ieee.org/document/10164645), **IEEE Transactions on Vehicular Technology**, vol. 72, no. 11, pp. 15121-15126, Doi: [10.1109/TVT.2023.3287400](https://doi.org/10.1109/TVT.2023.3287400) [[PDF](https://wqzhao.org/assets/zhao2023ompl.pdf)]
 - [Beam Pattern and Reflection Pattern Design for Channel Estimation in RIS-Assisted mmWave MIMO Systems](https://ieeexplore.ieee.org/document/10243635), **IEEE Transactions on Vehicular Technology** (*early access*) Doi: [10.1109/TVT.2023.3309950](https://doi.org/10.1109/TVT.2023.3309950) [[PDF](https://wqzhao.org/assets/you2023beam.pdf)]
 
 ## Posters
