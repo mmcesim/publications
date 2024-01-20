@@ -9,7 +9,7 @@ Explore publications of mmCEsim!
 - [Beam Pattern and Reflection Pattern Design for Channel Estimation in RIS-Assisted mmWave MIMO Systems](https://ieeexplore.ieee.org/document/10243635), **IEEE Transactions on Vehicular Technology** (*early access*) Doi: [10.1109/TVT.2023.3309950](https://doi.org/10.1109/TVT.2023.3309950) [[PDF](https://wqzhao.org/assets/you2023beam.pdf)]
 
 ## Posters
-- [2022 National Postdoc Seminar in Nanjing](mmCEsim_Nanjing2022_Poster.pdf): Brief Introduction to mmCEsim. (*Honorable Mention Award*, the only undergraduate student in the postdoc seminar.)
+- 2022 National Postdoc Seminar in Nanjing *(outdated)*: Brief Introduction to mmCEsim. (*Honorable Mention Award*, the only undergraduate student in the postdoc seminar.)
 
 ## Examples
 - [Example Configuration](mmCEsim_Example_Config.pdf): Oracle LS and OMP Channel Estimation Configuration Example
